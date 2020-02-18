@@ -1,13 +1,12 @@
 ---
-layout: layouts/home.njk
-title: Home
+title: Welcome
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 navtitle: Home
 tags:
   - nav
 ---
-# Welcome
+# Engagement text
 
 This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
 
